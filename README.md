@@ -4,8 +4,8 @@
 
 Make sure you have the following versions installed:
 
-- **Conda Version:** 23.7.4
-- **Python Version:** 3.11.5
+- **Python Version:** 3.10.10
+- https://www.python.org/downloads/release/python-31010/
 
 ## Package Installation
 
@@ -18,7 +18,7 @@ pip install beautifulsoup4==4.12.2
 pip install plotly==5.18.0
 pip install logging==0.4.9.6
 pip install scikit-learn==1.3.2
-pip install tensorflow==2.15.0
+pip install tensorflow==2.10.0
 
 pip install Django==5.0.1
 pip install mysqlclient=2.2.1
